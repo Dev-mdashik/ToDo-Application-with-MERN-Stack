@@ -1,0 +1,17 @@
+{ 
+    "1" :{
+        "name": "V20",
+        "price": 25000,
+        "brand": "Vivo"
+    },
+    "2" : {
+        "name": "Iphone 14 Pro Max",
+        "price": 125000,
+        "brand": "Apple"
+    },
+    "3" : {
+        "name": "Galaxy S20 Ultra",
+        "price": 70000,
+        "brand": "Samsung"
+    }
+}

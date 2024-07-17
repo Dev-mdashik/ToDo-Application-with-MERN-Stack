@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# This is a ToDo Application Project
+
+Here, I have used languages such as MongoDB, ExpressJs, ReactJs, and NodeJs to create the ToDo application. It is known as the MERN Stack.
+
+In addition, I've used Chakra UI for best User Interface. It is very easy to use.
